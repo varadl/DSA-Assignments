@@ -8,10 +8,10 @@ Each file contains solutions to different problems implemented in **C++**.
 ## 📂 Files List  
 Here are the assignments included in this repository:  
 
-| File Name    | Description |
-|-------------|------------|
-| **Ass1.cpp**  | 
-| **Ass2.cpp**  | 
+| File Name    |
+|-------------|
+| **Ass1.py**  | 
+| **Ass2.py**  | 
 | **Ass3.cpp**  | 
 | **Ass4.cpp**  | 
 | **Ass5.cpp**  | 
